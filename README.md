@@ -2,9 +2,7 @@
 
 <div align="center">
   <br />
-    <a href="https://youtu.be/cuzw4vL1z5E?feature=shared" target="_blank">
-      ![travel-app](https://github.com/user-attachments/assets/a841ae0f-7dbf-4288-b4b5-f65b0ea8c3d6)
-    </a>
+    ![travel-app](https://github.com/user-attachments/assets/a841ae0f-7dbf-4288-b4b5-f65b0ea8c3d6)
 
   <h3 align="center">Travel Website</h3>
 
