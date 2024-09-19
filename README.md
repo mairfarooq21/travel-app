@@ -3,7 +3,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/cuzw4vL1z5E?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/travel_ui_ux/assets/151519281/c72ebf75-847d-4a98-8f8a-24be02dac752" alt="Project Banner">
+      ![travel-app](https://github.com/user-attachments/assets/a841ae0f-7dbf-4288-b4b5-f65b0ea8c3d6)
     </a>
 
   <h3 align="center">Travel Website</h3>
