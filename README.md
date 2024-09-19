@@ -1,5 +1,5 @@
 ## <a name="introduction">🤖 Website Demo</a>
-<img src="https://github.com/user-attachments/assets/a841ae0f-7dbf-4288-b4b5-f65b0ea8c3d6" width="100%" />![travel-app](https://github.com/user-attachments/assets/a841ae0f-7dbf-4288-b4b5-f65b0ea8c3d6)
+![travel-app](https://github.com/user-attachments/assets/a841ae0f-7dbf-4288-b4b5-f65b0ea8c3d6)
 <div align="center">
   
   <h3 align="center">Travel Website</h3>
