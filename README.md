@@ -5,7 +5,7 @@
   <h3 align="center">Travel Website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Hilink is a sleek and responsive travel website built with Next.js and styled using Tailwind CSS. It features a modern design and seamless user experience across all devices.
     </div>
 </div>
 
