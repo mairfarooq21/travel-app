@@ -1,13 +1,5 @@
 ## <a name="introduction">🤖 Website Demo</a>
 <img src="https://github.com/user-attachments/assets/10a35687-4b13-4e5a-b547-60fb30dfdee4" width="100%" />
-<div align="center">
-  
-  <h3 align="center">Travel Website</h3>
-
-   <div align="center">
-     Hilink is a sleek and responsive travel website built with Next.js and styled using Tailwind CSS. It features a modern design and seamless user experience across all devices.
-    </div>
-</div>
 
 ## <a name="introduction">🤖 Introduction</a>
 
