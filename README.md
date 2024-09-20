@@ -22,8 +22,6 @@ Built with Next.js, TailwindCSS, and TypeScript, this landing page not only look
 
  **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
 
- **Footer**: Comprehensive footer section containing site and social media links for easy navigation and connectivity.
-
 and many more, including code architecture and reusability 
 
 ## <a name="quick-start"> Quick Start</a>
