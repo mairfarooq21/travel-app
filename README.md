@@ -1,8 +1,8 @@
-Website hosted here -> https://travel-app-pi-one.vercel.app/
-
 ## <a name="introduction"> Introduction</a>
 
 Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
+
+Website hosted here -> https://travel-app-pi-one.vercel.app/
 
 ## <a name="tech-stack"> Tech Stack</a>
 
