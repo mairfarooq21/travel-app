@@ -2,7 +2,7 @@
 
 Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
 
-Website hosted here -> https://travel-app-pi-one.vercel.app/
+Website hosted here -> <a href=https://travel-app-pi-one.vercel.app/>Link</a>
 
 ## <a name="tech-stack"> Tech Stack</a>
 
