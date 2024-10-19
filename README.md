@@ -1,6 +1,6 @@
 ## <a name="introduction"> Introduction</a>
 
-Th landing page is a modern, responsive design built with Next.js, Tailwind CSS, and TypeScript, showcasing travel destinations and features while providing an intuitive user experience.
+This landing page has a modern, responsive design built with Next.js, Tailwind CSS, and TypeScript, showcasing travel destinations and features while providing an intuitive user experience.
 
 ## <a name="features"> Features</a>
 
