@@ -1,13 +1,6 @@
 ## <a name="introduction"> Introduction</a>
 
-Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
-
-Website hosted here -> <a href=https://travel-app-pi-one.vercel.app/>Link</a>
-
-## <a name="tech-stack"> Tech Stack</a>
-
-- Next.js
-- Tailwind CSS
+Th landing page is a modern, responsive design built with Next.js, Tailwind CSS, and TypeScript, showcasing travel destinations and features while providing an intuitive user experience.
 
 ## <a name="features"> Features</a>
 
